@@ -3,7 +3,7 @@
 RazboiCarti is a C# WinForms application that implements the classic card game War, extended with LAN multiplayer support. The project demonstrates object-oriented programming principles, real-time client-server communication, and UI interaction.
 The game allows two players to compete over a local network:
 Player 1 (Host) – manages game logic and acts as the server
-Player 2 (Client) – connects to the host and mirrors the game state
+Player 2 (Client) – connects to the host and mirrors the game state 
 
 # Features
 - *Automatic deck generation from image assets*
